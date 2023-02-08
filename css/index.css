@@ -32,7 +32,7 @@ header > .container{padding:0 0px;}
     box-sizing: border-box;
     list-style: none;
     color: rgb(0, 0, 0);
-    font-family: 'Montserrat';
+    font-family: 'Roboto';
     font-size: 30px;
 }
 
@@ -51,7 +51,7 @@ header > .container{padding:0 0px;}
     background-color:rgb(255, 255, 255);
     justify-content: space-between;
     list-style-type:none;
-    font-family: 'Montserrat';
+    font-family: 'Roboto';
     padding-right: 1000px;
     padding-left: 40px;
     margin: 0px;
@@ -92,7 +92,7 @@ li a:hover {
     padding-top: 20px;
     margin:auto;
     background-color: white;
-    font-family: 'Montserrat';
+    font-family: 'Roboto';
 }
 
 * {
